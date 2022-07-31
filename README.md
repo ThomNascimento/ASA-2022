@@ -1,4 +1,4 @@
-# Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte
+## Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte
 
 ## Graduação em Tecnologia em Redes de Computadores
 
